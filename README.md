@@ -1,5 +1,9 @@
-### Hi there 👋
+🧑‍💻 Fullstack Developer with experience in Mobile and Web Development 
+💻 Artificial Intelligence Eng. with Speciality in Eng. and Quality of Software Projects and finishing a Master in Science, eager to learn tech. Web Apps development teacher at Universidad Panamericana, Mx.
+⚽ Soccer lover, long ago as a hobby, then as a work (2nd division) and now just as a sport so as not to go crazy in this pandemic time 
+🌮 Catador de tacos
 
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=erickgtzh)
 <!--
 **erickgtzh/erickgtzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
