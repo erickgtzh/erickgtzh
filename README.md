@@ -2,7 +2,7 @@
 
 💻 Artificial Intelligence Eng. with Speciality in Eng. and Quality of Software Projects and finishing a Master in Science, eager to learn tech. Web Apps development teacher at Universidad Panamericana, Mx.
 
-⚽ Soccer lover, long ago as a hobby, then as a work (2nd division) and now just as a hobby so as not to go crazy in this pandemic time
+⚽ Soccer lover, long ago as a hobby, then as a work (2nd division) and now, again just as a hobby so as not to go crazy in this pandemic time
 
 🌮 Catador de tacos
 
