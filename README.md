@@ -4,8 +4,6 @@
 
 ⚽ Soccer lover, long ago as a hobby, then as a work (2nd division) and now, again just as a hobby so as not to go crazy in this pandemic time
 
-🌮 Catador de tacos
-
 <!--
 **erickgtzh/erickgtzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
